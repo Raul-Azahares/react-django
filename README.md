@@ -2,6 +2,7 @@
 Example of CRUD with React and Django 2.0
 
 Three Steps :
+0.Install dependencies requirements.txt
 1.Locate at /proyect and run :
 python manage.py makemigrations
 python manage.py migrate
